@@ -50,4 +50,6 @@ Math was harmed in the making of this project.
 
 
 <img width="420" height="71" alt="image" src="https://github.com/user-attachments/assets/1352f53a-b0d2-4cd5-81dc-8c7178c13244" />
+<img width="1589" height="1229" alt="image" src="https://github.com/user-attachments/assets/0721620a-50a4-48b8-b06f-a469bec01cfb" />
+
 
