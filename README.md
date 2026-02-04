@@ -8,7 +8,6 @@ Did you know that calc was short for calculator?
 The goal is to:
 - understand neural network limitations
 - observe extrapolation failure
-- explore confidence estimation
 - contrast machine learning with symbolic reasoning
 
 ---
