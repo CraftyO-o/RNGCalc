@@ -23,13 +23,13 @@ Works best in **Google Colab** or a local Python environment with PyTorch.
 
 ---
 
-## 🧠 Under the Hood (The Architecture of Anxiety)
+## The Architecture of Anxiety
 
-Most calculators use logic. RNGCalc uses **Vibes**.
+Most calculators use logic. RNGCalc just gambles technically.
 
 I trained a simple Feed-Forward Network on 8,000 arithmetic pairs.
 - **The Catch:** I trained it on numbers between `-10` and `10`.
-- **The Result:** When you ask it to solve `100 * 100`, it tries to *extrapolate*, fails miserably, and has an existential crisis.
+- **The Result:** When you ask it to solve `100 * 100`, it tries to extrapolate, fails miserably, and has an existential crisis.
 
 ### The "Confidence" Algorithm
 Instead of an LLM, I used a deterministic ratio-based confidence system because I couldn't bother with api calls:
