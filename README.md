@@ -46,3 +46,8 @@ This calculator can be used for:
 - taxes (in the same way a coin flip can be used for taxes)
 
 Math was harmed in the making of this project.
+
+
+
+<img width="420" height="71" alt="image" src="https://github.com/user-attachments/assets/1352f53a-b0d2-4cd5-81dc-8c7178c13244" />
+
